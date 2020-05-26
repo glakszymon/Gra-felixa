@@ -7,3 +7,10 @@ w tamtą właściwość trzeba wpisać *window.location='(nazwa kolejnego obrazk
 # Uwaga
 *nazwa kolejnego obrazka* ma być identyczna co na kolejnej stronie w wiki
 
+## kolejność opcji onclick w inkscape
+Wybieramy obiekt
+wchodzimy w zakładkę *obiekt*   [[Zrzut ekranu z 2020-05-26 18-48-27.png]]
+potem w *właściwości obiektu*   [[Zrzut ekranu z 2020-05-26 18-48-35.png]]
+Otwieramy rozszeżenie *interaktywność* [Zrzut ekranu z 2020-05-26 18-49-02.png](Zrzut ekranu z 2020-05-26 18-49-02.png)
+wpisujemy w okienko nazwe kolejnego okna(Przeczytaj Uwaga)
+
