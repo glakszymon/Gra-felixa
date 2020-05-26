@@ -116,7 +116,7 @@
        id="text91"
        style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect93);" />
     <image
-       onclick="windowlocation='start.svg'"
+       onclick="window.location='start.svg'"
        transform="scale(-1,1)"
        id="image574"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVIAAAFSCAYAAACg1VfvAAAABHNCSVQICAgIfAhkiAAAIABJREFU
