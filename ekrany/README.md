@@ -17,6 +17,7 @@ potem w *właściwości obiektu*
 
 
 Otwieramy rozszeżenie *interaktywność* 
+
 ![Zrzut ekranu z 2020-05-26 18-49-02.png](Zrzut%20ekranu%20z%202020-05-26%2018-49-02.png)
 
 wpisujemy w okienko nazwe kolejnego okna(Przeczytaj Uwaga)
