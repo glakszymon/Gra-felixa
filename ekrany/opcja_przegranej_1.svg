@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="opcja_przegranej_1.svg"
+   viewBox="0 0 366.66666 244"
+   height="244"
+   width="366.66666"
+   id="svg690"
+   version="1.1">
+  <metadata
+     id="metadata696">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs694">
+    <rect
+       id="rect723"
+       height="88.834665"
+       width="272.60462"
+       y="18.051939"
+       x="41.420577" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:current-layer="g698"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="125.38552"
+     inkscape:cx="240.81679"
+     inkscape:zoom="2.5163934"
+     showgrid="false"
+     id="namedview692"
+     inkscape:window-height="836"
+     inkscape:window-width="1600"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <g
+     id="g698"
+     inkscape:label="Image"
+     inkscape:groupmode="layer">
+    <rect
+       y="0.16299368"
+       x="-0.27476078"
+       height="245.06955"
+       width="367.91714"
+       id="rect719"
+       style="fill:#00ff00" />
+    <text
+       transform="translate(44)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect723);fill:#000000;fill-opacity:1;stroke:none;"
+       id="text721"
+       xml:space="preserve"><tspan
+         x="41.419922"
+         y="53.443359"><tspan
+           style="fill:#ff0000">Przegrana</tspan></tspan></text>
+    <text
+       id="text729"
+       y="127.79416"
+       x="10.418847"
+       style="font-size:19.2441px;line-height:1.25;font-family:sans-serif;stroke-width:1.20276"
+       xml:space="preserve"><tspan
+         style="stroke-width:1.20276"
+         id="tspan733"
+         y="127.79416"
+         x="10.418847"
+         sodipodi:role="line">Nie znalazłeś drogi do sali. </tspan><tspan
+         style="stroke-width:1.20276"
+         id="tspan740"
+         y="151.84927"
+         x="10.418847"
+         sodipodi:role="line">Wyrzucili cię ze szkoły za to, że </tspan><tspan
+         style="stroke-width:1.20276"
+         id="tspan744"
+         y="175.9044"
+         x="10.418847"
+         sodipodi:role="line">nie było cię na pierwszych zajęciach.</tspan><tspan
+         style="stroke-width:1.20276"
+         id="tspan742"
+         y="199.95953"
+         x="10.418847"
+         sodipodi:role="line" /></text>
+  </g>
+</svg>
