@@ -127,7 +127,7 @@
          id="tspan1764"> przez x.</tspan></text>
     <g
        transform="matrix(1.3327776,0,0,1.3327776,-16.685497,-5.8970292)"
-       onclick="window.location='powiedziec_ze_nie_wiem_sala.svg'"
+       onclick="window.location='nie_mowic_ze_nie_wiem_sala.svg'"
        id="g1814">
       <rect
          style="fill:#0000ff;fill-rule:evenodd;stroke-width:0.450707"
@@ -152,7 +152,7 @@
     <g
        onmouseover=""
        transform="matrix(1.3327776,0,0,1.3327776,-16.685497,-5.8970292)"
-       onclick="window.location='nie_mowic_ze_nie_wiem_sala.svg'"
+       onclick="window.location='powiedziec_ze_nie_wiem_sala.svg'"
        id="g1819">
       <rect
          y="25.258659"
